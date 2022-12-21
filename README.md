@@ -12,7 +12,7 @@ pip install itic
 
 ## How to Use
 
-Simply use `itic` to converter from one image formate to another as follows:
+Simply use `itic` to converter from one image format to another as follows:
 ```bash
 itic <image_to_convert.jpg> <new_image.png>
 ```
