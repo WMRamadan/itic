@@ -42,7 +42,7 @@ setup(
     author_email                  = itic.__email__,
     maintainer                    = itic.__maintainer__,
     maintainer_email              = itic.__email__,
-    packages                      = ["iti"],
+    packages                      = ["itic"],
     install_requires              = [ "typer==0.3.2", "rich==12.6.0", "pillow==9.0.1" ],
     python_requires               = ">=3.9",
     keywords                      = "image to image converter",

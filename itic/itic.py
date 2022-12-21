@@ -18,7 +18,7 @@ def convert_image(input_file: str, output_file: str):
     except Exception as e:
         return True, e
 
-def main(input_file: str, output_file: str):
+def app(input_file: str, output_file: str):
     conv, e = convert_image(input_file=input_file, output_file=output_file)
     if conv:
         print(f"[bold red]{e}")
@@ -32,3 +32,6 @@ def main(input_file: str, output_file: str):
             "Output File Extention": output_file_ext
         }
         print(d)
+
+def main() -> None:
+    typer.run(app)
