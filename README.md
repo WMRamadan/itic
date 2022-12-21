@@ -2,6 +2,14 @@
 
 itic - Image to Image Converter
 
+## Install
+
+The package can be installed through `pip`, example:
+
+```bash
+pip install itic
+```
+
 ## How to Use
 
 Simply use `itic` to converter from one image formate to another as follows:
