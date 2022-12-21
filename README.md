@@ -1,2 +1,2 @@
-# iti
-iti - Image to Image
+# itic
+itic - Image to Image Converter
