@@ -1,6 +1,6 @@
-# itic
+# ITIC
 
-itic - Image to Image Converter
+ITIC - Image to Image Converter
 
 ## Install
 
